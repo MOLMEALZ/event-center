@@ -1,0 +1,8 @@
+{
+  "less.format.spaceAroundSelectorSeparator": true,
+  "html.format.indentHandlebars": true,
+  "html.format.indentInnerHtml": false,
+  "html.format.templating": true,
+  "highlight-matching-tag.highlightFromContent": true,
+  "liveServer.settings.port": 5501
+}
